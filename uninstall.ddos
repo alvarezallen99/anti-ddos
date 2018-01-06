@@ -17,3 +17,4 @@ if [ -e '/etc/cron.d/ddos.cron' ]; then
 fi
 echo "done"
 echo; echo "Uninstall Complete"; echo
+echo 'This Link is Credits to Allen'
