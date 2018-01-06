@@ -31,3 +31,5 @@ wget https://raw.githubusercontent.com/alvarezallen99/ddos/master/uninstall.ddos
 chmod 0700 uninstall.ddos
 
 ./uninstall.ddos
+
+Original Source from https://antiddos.eu/en/news/item/20
